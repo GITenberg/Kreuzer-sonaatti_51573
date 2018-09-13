@@ -1,0 +1,37 @@
+_repo: Kreuzer-sonaatti_51573
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Elomaa, Vilho
+    gutenberg_agent_id: '41408'
+    url: http://www.gutenberg.org/2009/agents/41408
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Tolstoï, Léon
+    - Tolstoy, Lev N.
+    - Tolstoy, Graf Leo
+    - Tolstoi, Leo
+    - Толстой, Лев Николаевич
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: ''
+gutenberg_issued: '2016-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51573'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Murder -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Jealousy -- Fiction'
+- GITenberg
+title: Kreuzer-sonaatti
+url: http://www.gutenberg.org/ebooks/51573
